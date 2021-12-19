@@ -1,2 +1,7 @@
 # Webscraping_CollegeDuniya
-This is webscraping project based on selenium and beautifulsoup, and is intended for information purposes only
+This is webscraping project based on selenium and beautifulsoup.
+Name -: Aditya Raj Singh
+Email -: rajaditya9151@gmail.com
+Purpose -: Pepcoding round 2 hackathon
+Webscraping place used -: Moradabad
+
